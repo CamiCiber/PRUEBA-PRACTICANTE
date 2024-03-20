@@ -1,0 +1,4 @@
+.animate_animated .animate__fadeIn{
+    --animate-duration:3s;
+    border-radius: 10px;
+}
